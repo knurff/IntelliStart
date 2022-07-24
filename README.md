@@ -2,7 +2,7 @@
 
 
 ## About
-In this project, I implemented the advanced system requirements of the task, which can be found at the [link]((https://drive.google.com/file/d/1X1dHmsvP_Vy9UzqKDLbQ-d8AD3kFRVaO/view)).
+In this project, I implemented the advanced system requirements of the task, which can be found at the [link](https://drive.google.com/file/d/1X1dHmsvP_Vy9UzqKDLbQ-d8AD3kFRVaO/view).
 This is a simple REST API that allows the user to buy products, according to the requirements that were prescribed in the link above.
 
 ## Start
